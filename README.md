@@ -3,7 +3,7 @@
 **Enterprise-grade sales intelligence for SMBs**  
 *A SaaS platform leveraging AI to provide data-driven insights and automation for small and medium businesses*
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Preview-green)](https://pitch-poa.web.app/)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/Lowellowuor/ai-sales-for-small-venders/pulls)
 
