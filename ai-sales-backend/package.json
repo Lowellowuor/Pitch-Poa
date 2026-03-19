@@ -38,4 +38,24 @@
     "winston": "^3.11.0"
   },
   "private": true
+  {
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "africastalking": "^1.0.0",
+    "twilio": "^4.19.0",
+    "openai": "^4.20.0",
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
+}
+{
+  "dependencies": {
+    "express-validator": "^7.0.1",
+    "express-rate-limit": "^7.1.5"
+  }
 }
